@@ -16,9 +16,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "2ce38cd3325620409373e71658a7c3616297a941",
     "commitName": "test: add initial test for Love-Love score",
     "commitTimestamp": 1773110359761,
     "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1773110467111,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1773110480376,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implement player 1 scoring",
+    "commitTimestamp": 1773110495562,
+    "testId": 1
   }
 ]
