@@ -21,6 +21,14 @@ class TennisGame {
         return "Deuce";
       }
 
+      if (this.player1 === this.player2 + 1) {
+        return "Advantage Player 1";
+      }
+
+      if (this.player2 === this.player1 + 1) {
+        return "Advantage Player 2";
+      }
+
     }
 
     const scoreNames = ["Love", "15", "30", "40"];

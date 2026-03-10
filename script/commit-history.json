@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "fcc2c7a41f9e9ac6ae3594c27f7ed6bfa5632228",
     "author": "ByAlexShark",
     "commit": {
       "date": "2026-03-10T02:43:51.000Z",
       "message": "feat: implement deuce rule",
-      "url": "https://github.com/ByAlexShark/TenisJava/commit/HEAD"
+      "url": "https://github.com/ByAlexShark/TenisJava/commit/fcc2c7a41f9e9ac6ae3594c27f7ed6bfa5632228"
     },
     "stats": {
       "total": 22,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ByAlexShark",
+    "commit": {
+      "date": "2026-03-10T02:44:35.000Z",
+      "message": "feat: implement advantage rule",
+      "url": "https://github.com/ByAlexShark/TenisJava/commit/HEAD"
+    },
+    "stats": {
+      "total": 21,
+      "additions": 21,
+      "deletions": 0,
+      "date": "2026-03-10"
+    },
+    "coverage": 85.71,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
