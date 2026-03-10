@@ -15,15 +15,9 @@ class TennisGame {
 
   getScore() {
 
-    if (this.player1 === 1 && this.player2 === 0) {
-      return "15-Love";
-    }
+    const scoreNames = ["Love", "15", "30", "40"];
 
-    if (this.player1 === 1 && this.player2 === 1) {
-      return "15-15";
-    }
-
-    return "Love-Love";
+    return scoreNames[this.player1] + "-" + scoreNames[this.player2];
 
   }
 

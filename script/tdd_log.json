@@ -60,9 +60,31 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "831f67b8d22015fd0f58f58245fb80f3bc51dba4",
     "commitName": "feat: implement player 2 scoring",
     "commitTimestamp": 1773110542878,
     "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1773110559713,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1773110572197,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implement tennis score mapping",
+    "commitTimestamp": 1773110583585,
+    "testId": 3
   }
 ]
