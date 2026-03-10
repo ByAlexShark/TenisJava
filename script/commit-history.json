@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "57009b0c49b08c32ef9c5fe507b5c44ac305c35d",
     "author": "ByAlexShark",
     "commit": {
       "date": "2026-03-10T02:41:35.000Z",
       "message": "feat: implement player 1 scoring",
-      "url": "https://github.com/ByAlexShark/TenisJava/commit/HEAD"
+      "url": "https://github.com/ByAlexShark/TenisJava/commit/57009b0c49b08c32ef9c5fe507b5c44ac305c35d"
     },
     "stats": {
       "total": 23,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ByAlexShark",
+    "commit": {
+      "date": "2026-03-10T02:42:22.000Z",
+      "message": "feat: implement player 2 scoring",
+      "url": "https://github.com/ByAlexShark/TenisJava/commit/HEAD"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 18,
+      "deletions": 1,
+      "date": "2026-03-10"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

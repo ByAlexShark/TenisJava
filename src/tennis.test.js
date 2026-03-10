@@ -13,4 +13,11 @@ describe("Tennis Game", () => {
     expect(game.getScore()).toBe("15-Love");
   });
 
+  test("Jugador 2 anota", () => {
+    const game = new TennisGame();
+    game.player1Scores();
+    game.player2Scores();
+    expect(game.getScore()).toBe("15-15");
+  });
+
 });

@@ -38,9 +38,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "57009b0c49b08c32ef9c5fe507b5c44ac305c35d",
     "commitName": "feat: implement player 1 scoring",
     "commitTimestamp": 1773110495562,
     "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1773110512262,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1773110526092,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implement player 2 scoring",
+    "commitTimestamp": 1773110542878,
+    "testId": 2
   }
 ]
