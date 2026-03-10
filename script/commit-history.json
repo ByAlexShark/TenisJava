@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "1a4de9aa15741df906ee523b6bb3ab5f5fb8175b",
     "author": "ByAlexShark",
     "commit": {
       "date": "2026-03-10T02:43:03.000Z",
       "message": "feat: implement tennis score mapping",
-      "url": "https://github.com/ByAlexShark/TenisJava/commit/HEAD"
+      "url": "https://github.com/ByAlexShark/TenisJava/commit/1a4de9aa15741df906ee523b6bb3ab5f5fb8175b"
     },
     "stats": {
       "total": 20,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ByAlexShark",
+    "commit": {
+      "date": "2026-03-10T02:43:51.000Z",
+      "message": "feat: implement deuce rule",
+      "url": "https://github.com/ByAlexShark/TenisJava/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 22,
+      "deletions": 0,
+      "date": "2026-03-10"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

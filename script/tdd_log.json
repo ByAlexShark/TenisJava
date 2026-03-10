@@ -82,9 +82,31 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "1a4de9aa15741df906ee523b6bb3ab5f5fb8175b",
     "commitName": "feat: implement tennis score mapping",
     "commitTimestamp": 1773110583585,
     "testId": 3
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1773110611427,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1773110617868,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implement deuce rule",
+    "commitTimestamp": 1773110631528,
+    "testId": 4
   }
 ]

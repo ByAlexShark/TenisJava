@@ -30,4 +30,18 @@ describe("Tennis Game", () => {
     expect(game.getScore()).toBe("30-15");
   });
 
+  test("Deuce", () => {
+    const game = new TennisGame();
+
+    game.player1Scores();
+    game.player1Scores();
+    game.player1Scores();
+
+    game.player2Scores();
+    game.player2Scores();
+    game.player2Scores();
+
+    expect(game.getScore()).toBe("Deuce");
+  });
+
 });
