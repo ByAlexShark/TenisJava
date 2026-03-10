@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a7a37352429a5761b4cd9666fc60fbab342780af",
     "author": "ByAlexShark",
     "commit": {
       "date": "2026-03-10T02:44:35.000Z",
       "message": "feat: implement advantage rule",
-      "url": "https://github.com/ByAlexShark/TenisJava/commit/HEAD"
+      "url": "https://github.com/ByAlexShark/TenisJava/commit/a7a37352429a5761b4cd9666fc60fbab342780af"
     },
     "stats": {
       "total": 21,
@@ -110,6 +110,25 @@
     },
     "coverage": 85.71,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ByAlexShark",
+    "commit": {
+      "date": "2026-03-10T02:46:16.000Z",
+      "message": "feat: implement game win rule",
+      "url": "https://github.com/ByAlexShark/TenisJava/commit/HEAD"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 22,
+      "deletions": 0,
+      "date": "2026-03-10"
+    },
+    "coverage": 83.33,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }

@@ -29,6 +29,14 @@ class TennisGame {
         return "Advantage Player 2";
       }
 
+      if (this.player1 >= this.player2 + 2) {
+        return "Game for Player 1";
+      }
+
+      if (this.player2 >= this.player1 + 2) {
+        return "Game for Player 2";
+      }
+
     }
 
     const scoreNames = ["Love", "15", "30", "40"];

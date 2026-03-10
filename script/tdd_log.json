@@ -126,9 +126,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a7a37352429a5761b4cd9666fc60fbab342780af",
     "commitName": "feat: implement advantage rule",
     "commitTimestamp": 1773110675793,
     "testId": 5
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1773110739679,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1773110759242,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implement game win rule",
+    "commitTimestamp": 1773110776750,
+    "testId": 6
   }
 ]

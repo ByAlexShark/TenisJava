@@ -57,4 +57,18 @@ describe("Tennis Game", () => {
     expect(game.getScore()).toBe("Advantage Player 1");
   });
 
+  test("Game Player 1", () => {
+    const game = new TennisGame();
+
+    for (let i = 0; i < 3; i++) {
+      game.player1Scores();
+      game.player2Scores();
+    }
+
+    game.player1Scores();
+    game.player1Scores();
+
+    expect(game.getScore()).toBe("Game for Player 1");
+  });
+
 });
